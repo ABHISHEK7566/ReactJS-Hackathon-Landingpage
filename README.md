@@ -1,56 +1,70 @@
-# ReactJS-Hackathon-2022 - MasterDexter
+# Getting Started with Create React App
 
-<img src="https://github.com/MasterDexterAI/ReactJS-Hackathon-2022/blob/main/images/MasterDexter.jpg" />
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### MasterDexter ReactJS Hackathon 2022
+## Available Scripts
 
-#### Build a landing page for startups including the following features:
+In the project directory, you can run:
 
-1. Conversion intent: Make an offer people will actually convert on. E.g. Top of the funnel vs. bottom of the funnel visitors need different CTAs
-2. Single conversion goal: Your landing page offers a clear path to conversion. Just one, not many 
-3. Message match: Ad copy, message, offer, and tone match landing page copy, message, offer, and tone 
-4. Headline/subheadline: Your headline explains the value you’ll provide, and the promise you’ll make; your subheadline introduces your product or service and explains how you’ll create value and deliver your promise
-5. Visuals: Images, graphics, and video make the invisible visible and provide context to your value proposition
-6. Features/benefits: Not just how you’ll do it, but why it matters
-7. Social proof: Shows that other people in the same situation chose you, and makes your offer believable
-8. Form: For lead gen startup pages, your form captures critical lead info so sales can follow up
-9. Call-to-action: Nudges prospects toward the next step in your conversion path
-10. 1:1 Attention ratio: Visitors get distracted easily. Limit the number of links on your landing page to as close as possible. 
-11. Irresistible offer: Without an irresistible offer, nothing else matters. Make it matter. 
+### `npm start`
 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-#### Reference: https://klientboost.com/landing-pages/landing-page-for-startup/
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
+### `npm test`
 
-## Here are the ideas. You can work on any 1 of them.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-1. Landing Page for a Healthcare startup.
-2. Landing page for a defense startup.
-3. Landing page for an education startup.
-4. Landing page for a crypto startup.
-5. Landing page for a marketing agency.
-6. Landing page for a finance startup.
-7. Landing page for an electric vehicle startup.
-8. Landing page for a Computer Vision startup.
+### `npm run build`
 
-#### You can find the ideas of design here:
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-<a href="https://www.behance.net/">Behance</a>
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-<a href="https://dribbble.com/search">Dribble</a>
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-# Hackathon Rules and Instructions:
+### `npm run eject`
 
-1. The page should contain all the features mentioned above.
-2. Fork this repo.
-3. create a folder in your local machine with the name of the landing page for ex. - heathcare-startup-yourfullname
-4. add a readme file in that folder along with your code with proper documentation.
-5. commit it.
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-### start date and time: July 15, 2022. 3pm
-### end date and time: July 20, 2022. 3pm
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-#### Note: Commit after the end date will not be considered.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Learn More
 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
